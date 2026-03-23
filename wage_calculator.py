@@ -1,5 +1,3 @@
-# Original code file to start with
-
 class Staff:
     def __init__(self, staff_id, days_worked):
         self.staff_id = staff_id
